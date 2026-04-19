@@ -1,0 +1,621 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- ============================== -->
+  <!-- HOME PAGE — Prioridad Máxima   -->
+  <!-- ============================== -->
+  <url>
+    <loc>https://www.sepo.cl/</loc>
+    <lastmod>2026-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.sepo.cl/webp/logo-sepo.webp</image:loc>
+      <image:title>SEPO - Motor de Decisión para Licitaciones de Construcción</image:title>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="es-CL" href="https://www.sepo.cl/" />
+    <xhtml:link rel="alternate" hreflang="es-CO" href="https://www.sepo.cl/" />
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.sepo.cl/" />
+    <xhtml:link rel="alternate" hreflang="es-PE" href="https://www.sepo.cl/" />
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.sepo.cl/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sepo.cl/" />
+  </url>
+
+  <!-- Marketing Root — Landings -->
+  <url>
+    <loc>https://www.sepo.cl/marketing</loc>
+    <lastmod>2026-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.96</priority>
+    <xhtml:link rel="alternate" hreflang="es-CL" href="https://www.sepo.cl/marketing" />
+    <xhtml:link rel="alternate" hreflang="es-CO" href="https://www.sepo.cl/marketing" />
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.sepo.cl/marketing" />
+    <xhtml:link rel="alternate" hreflang="es-PE" href="https://www.sepo.cl/marketing" />
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.sepo.cl/marketing" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sepo.cl/marketing" />
+  </url>
+
+  <!-- ============================== -->
+  <!-- LEAD MAGNET / ESCÁNER          -->
+  <!-- ============================== -->
+  <url>
+    <loc>https://www.sepo.cl/empresa-en-un-dia-construccion</loc>
+    <lastmod>2026-04-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+    <image:image>
+      <image:loc>https://www.sepo.cl/webp/logo-sepo.webp</image:loc>
+      <image:title>Auditoría Empresa en un Día - Construcción | SEPO</image:title>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="es-CL" href="https://www.sepo.cl/empresa-en-un-dia-construccion" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sepo.cl/empresa-en-un-dia-construccion" />
+  </url>
+
+
+  <!-- ============================== -->
+  <!-- LANDING PAGES INTERNACIONALES  -->
+  <!-- ============================== -->
+
+  <!-- Chile — Mercado Público -->
+  <url>
+    <loc>https://www.sepo.cl/marketing/chile/</loc>
+    <lastmod>2026-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://www.sepo.cl/webp/logo-sepo.webp</image:loc>
+      <image:title>SEPO para Chile — Licitaciones en Mercado Público</image:title>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="es-CL" href="https://www.sepo.cl/marketing/chile/" />
+    <xhtml:link rel="alternate" hreflang="es-CO" href="https://www.sepo.cl/marketing/colombia/" />
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.sepo.cl/marketing/mexico/" />
+    <xhtml:link rel="alternate" hreflang="es-PE" href="https://www.sepo.cl/marketing/peru/" />
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.sepo.cl/marketing/espana/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sepo.cl/marketing/chile/" />
+  </url>
+
+  <!-- Auditoría Chile — Mercado Público -->
+  <url>
+    <loc>https://www.sepo.cl/marketing/auditoria/chile</loc>
+    <lastmod>2026-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.92</priority>
+    <image:image>
+      <image:loc>https://www.sepo.cl/webp/hero-auditoria.webp</image:loc>
+      <image:title>Auditoría Forense de Licitaciones en Chile — SEPO</image:title>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="es-CL" href="https://www.sepo.cl/marketing/auditoria/chile" />
+    <xhtml:link rel="alternate" hreflang="es-CO" href="https://www.sepo.cl/marketing/auditoria/colombia" />
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.sepo.cl/marketing/auditoria/mexico" />
+    <xhtml:link rel="alternate" hreflang="es-PE" href="https://www.sepo.cl/marketing/auditoria/peru" />
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.sepo.cl/marketing/auditoria/espana" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sepo.cl/marketing/auditoria/chile" />
+  </url>
+
+  <!-- México — CompraNet -->
+  <url>
+    <loc>https://www.sepo.cl/marketing/mexico/</loc>
+    <lastmod>2026-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://www.sepo.cl/webp/logo-sepo.webp</image:loc>
+      <image:title>SEPO para México — Licitaciones en CompraNet</image:title>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="es-CL" href="https://www.sepo.cl/marketing/chile/" />
+    <xhtml:link rel="alternate" hreflang="es-CO" href="https://www.sepo.cl/marketing/colombia/" />
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.sepo.cl/marketing/mexico/" />
+    <xhtml:link rel="alternate" hreflang="es-PE" href="https://www.sepo.cl/marketing/peru/" />
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.sepo.cl/marketing/espana/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sepo.cl/marketing/chile/" />
+  </url>
+
+  <!-- Auditoría México — CompraNet -->
+  <url>
+    <loc>https://www.sepo.cl/marketing/auditoria/mexico</loc>
+    <lastmod>2026-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.92</priority>
+    <xhtml:link rel="alternate" hreflang="es-CL" href="https://www.sepo.cl/marketing/auditoria/chile" />
+    <xhtml:link rel="alternate" hreflang="es-CO" href="https://www.sepo.cl/marketing/auditoria/colombia" />
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.sepo.cl/marketing/auditoria/mexico" />
+    <xhtml:link rel="alternate" hreflang="es-PE" href="https://www.sepo.cl/marketing/auditoria/peru" />
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.sepo.cl/marketing/auditoria/espana" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sepo.cl/marketing/auditoria/chile" />
+  </url>
+
+  <!-- España — PLACE -->
+  <url>
+    <loc>https://www.sepo.cl/marketing/espana/</loc>
+    <lastmod>2026-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://www.sepo.cl/webp/logo-sepo.webp</image:loc>
+      <image:title>SEPO para España — Licitaciones en el Sector Público (PLACE)</image:title>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="es-CL" href="https://www.sepo.cl/marketing/chile/" />
+    <xhtml:link rel="alternate" hreflang="es-CO" href="https://www.sepo.cl/marketing/colombia/" />
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.sepo.cl/marketing/mexico/" />
+    <xhtml:link rel="alternate" hreflang="es-PE" href="https://www.sepo.cl/marketing/peru/" />
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.sepo.cl/marketing/espana/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sepo.cl/marketing/chile/" />
+  </url>
+
+  <!-- Auditoría España — PLACE -->
+  <url>
+    <loc>https://www.sepo.cl/marketing/auditoria/espana</loc>
+    <lastmod>2026-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.92</priority>
+    <xhtml:link rel="alternate" hreflang="es-CL" href="https://www.sepo.cl/marketing/auditoria/chile" />
+    <xhtml:link rel="alternate" hreflang="es-CO" href="https://www.sepo.cl/marketing/auditoria/colombia" />
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.sepo.cl/marketing/auditoria/mexico" />
+    <xhtml:link rel="alternate" hreflang="es-PE" href="https://www.sepo.cl/marketing/auditoria/peru" />
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.sepo.cl/marketing/auditoria/espana" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sepo.cl/marketing/auditoria/chile" />
+  </url>
+
+  <!-- Perú — SEACE -->
+  <url>
+    <loc>https://www.sepo.cl/marketing/peru/</loc>
+    <lastmod>2026-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://www.sepo.cl/webp/logo-sepo.webp</image:loc>
+      <image:title>SEPO para Perú — Licitaciones en SEACE</image:title>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="es-CL" href="https://www.sepo.cl/marketing/chile/" />
+    <xhtml:link rel="alternate" hreflang="es-CO" href="https://www.sepo.cl/marketing/colombia/" />
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.sepo.cl/marketing/mexico/" />
+    <xhtml:link rel="alternate" hreflang="es-PE" href="https://www.sepo.cl/marketing/peru/" />
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.sepo.cl/marketing/espana/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sepo.cl/marketing/chile/" />
+  </url>
+
+  <!-- Auditoría Perú — SEACE -->
+  <url>
+    <loc>https://www.sepo.cl/marketing/auditoria/peru</loc>
+    <lastmod>2026-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.92</priority>
+    <xhtml:link rel="alternate" hreflang="es-CL" href="https://www.sepo.cl/marketing/auditoria/chile" />
+    <xhtml:link rel="alternate" hreflang="es-CO" href="https://www.sepo.cl/marketing/auditoria/colombia" />
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.sepo.cl/marketing/auditoria/mexico" />
+    <xhtml:link rel="alternate" hreflang="es-PE" href="https://www.sepo.cl/marketing/auditoria/peru" />
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.sepo.cl/marketing/auditoria/espana" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sepo.cl/marketing/auditoria/chile" />
+  </url>
+
+  <!-- Colombia — SECOP II -->
+  <url>
+    <loc>https://www.sepo.cl/marketing/colombia/</loc>
+    <lastmod>2026-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://www.sepo.cl/webp/logo-sepo.webp</image:loc>
+      <image:title>SEPO para Colombia — Licitaciones en SECOP II</image:title>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="es-CL" href="https://www.sepo.cl/marketing/chile/" />
+    <xhtml:link rel="alternate" hreflang="es-CO" href="https://www.sepo.cl/marketing/colombia/" />
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.sepo.cl/marketing/mexico/" />
+    <xhtml:link rel="alternate" hreflang="es-PE" href="https://www.sepo.cl/marketing/peru/" />
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.sepo.cl/marketing/espana/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sepo.cl/marketing/chile/" />
+  </url>
+
+  <!-- Auditoría Colombia — SECOP II -->
+  <url>
+    <loc>https://www.sepo.cl/marketing/auditoria/colombia</loc>
+    <lastmod>2026-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.92</priority>
+    <xhtml:link rel="alternate" hreflang="es-CL" href="https://www.sepo.cl/marketing/auditoria/chile" />
+    <xhtml:link rel="alternate" hreflang="es-CO" href="https://www.sepo.cl/marketing/auditoria/colombia" />
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.sepo.cl/marketing/auditoria/mexico" />
+    <xhtml:link rel="alternate" hreflang="es-PE" href="https://www.sepo.cl/marketing/auditoria/peru" />
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.sepo.cl/marketing/auditoria/espana" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sepo.cl/marketing/auditoria/chile" />
+  </url>
+
+  <!-- ============================== -->
+  <!-- PRODUCTO Y MÓDULOS             -->
+  <!-- ============================== -->
+  <url>
+    <loc>https://www.sepo.cl/sepo_modulos</loc>
+    <lastmod>2026-04-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="es-CL" href="https://www.sepo.cl/sepo_modulos" />
+    <xhtml:link rel="alternate" hreflang="es-CO" href="https://www.sepo.cl/sepo_modulos" />
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.sepo.cl/sepo_modulos" />
+    <xhtml:link rel="alternate" hreflang="es-PE" href="https://www.sepo.cl/sepo_modulos" />
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.sepo.cl/sepo_modulos" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sepo.cl/sepo_modulos" />
+  </url>
+
+  <!-- Checkout — Conversión Directa -->
+  <url>
+    <loc>https://www.sepo.cl/checkout</loc>
+    <lastmod>2026-04-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="es-CL" href="https://www.sepo.cl/checkout" />
+    <xhtml:link rel="alternate" hreflang="es-CO" href="https://www.sepo.cl/checkout" />
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.sepo.cl/checkout" />
+    <xhtml:link rel="alternate" hreflang="es-PE" href="https://www.sepo.cl/checkout" />
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.sepo.cl/checkout" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sepo.cl/checkout" />
+  </url>
+
+  <!-- App — Acceso a Aplicación -->
+  <url>
+    <loc>https://www.sepo.cl/app</loc>
+    <lastmod>2026-04-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="es-CL" href="https://www.sepo.cl/app" />
+    <xhtml:link rel="alternate" hreflang="es-CO" href="https://www.sepo.cl/app" />
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.sepo.cl/app" />
+    <xhtml:link rel="alternate" hreflang="es-PE" href="https://www.sepo.cl/app" />
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.sepo.cl/app" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sepo.cl/app" />
+  </url>
+
+
+  <!-- SME Strategy -->
+  <url>
+    <loc>https://www.sepo.cl/licitaciones-pymes</loc>
+    <lastmod>2026-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://www.sepo.cl/webp/logo-sepo.webp</image:loc>
+      <image:title>Licitaciones MYPE y PyME: Estrategia de Supervivencia — SEPO</image:title>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="es-CL" href="https://www.sepo.cl/licitaciones-pymes" />
+    <xhtml:link rel="alternate" hreflang="es-CO" href="https://www.sepo.cl/licitaciones-pymes" />
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.sepo.cl/licitaciones-pymes" />
+    <xhtml:link rel="alternate" hreflang="es-PE" href="https://www.sepo.cl/licitaciones-pymes" />
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.sepo.cl/licitaciones-pymes" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sepo.cl/licitaciones-pymes" />
+  </url>
+
+  <!-- ============================== -->
+  <!-- AUTHORITY HUB PAGES — SEO      -->
+  <!-- ============================== -->
+  <url>
+    <loc>https://www.sepo.cl/software-estudios-de-obras</loc>
+    <lastmod>2026-04-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.sepo.cl/webp/logo-sepo.webp</image:loc>
+      <image:title>Software de Estudios de Obra SEPO</image:title>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="es-CL" href="https://www.sepo.cl/software-estudios-de-obras" />
+    <xhtml:link rel="alternate" hreflang="es-CO" href="https://www.sepo.cl/software-estudios-de-obras" />
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.sepo.cl/software-estudios-de-obras" />
+    <xhtml:link rel="alternate" hreflang="es-PE" href="https://www.sepo.cl/software-estudios-de-obras" />
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.sepo.cl/software-estudios-de-obras" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sepo.cl/software-estudios-de-obras" />
+  </url>
+
+  <url>
+    <loc>https://www.sepo.cl/apu-construccion</loc>
+    <lastmod>2026-04-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.sepo.cl/webp/logo-sepo.webp</image:loc>
+      <image:title>Análisis de Precios Unitarios (APU) Construcción</image:title>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="es-CL" href="https://www.sepo.cl/apu-construccion" />
+    <xhtml:link rel="alternate" hreflang="es-CO" href="https://www.sepo.cl/apu-construccion" />
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.sepo.cl/apu-construccion" />
+    <xhtml:link rel="alternate" hreflang="es-PE" href="https://www.sepo.cl/apu-construccion" />
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.sepo.cl/apu-construccion" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sepo.cl/apu-construccion" />
+  </url>
+
+  <url>
+    <loc>https://www.sepo.cl/como-saber-si-licitar</loc>
+    <lastmod>2026-04-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.sepo.cl/webp/logo-sepo.webp</image:loc>
+      <image:title>Metodología para saber si licitar una obra</image:title>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="es-CL" href="https://www.sepo.cl/como-saber-si-licitar" />
+    <xhtml:link rel="alternate" hreflang="es-CO" href="https://www.sepo.cl/como-saber-si-licitar" />
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.sepo.cl/como-saber-si-licitar" />
+    <xhtml:link rel="alternate" hreflang="es-PE" href="https://www.sepo.cl/como-saber-si-licitar" />
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.sepo.cl/como-saber-si-licitar" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sepo.cl/como-saber-si-licitar" />
+  </url>
+
+  <url>
+    <loc>https://www.sepo.cl/cotizacion-certificada-construccion</loc>
+    <lastmod>2026-04-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.sepo.cl/webp/hero-certificada.webp</image:loc>
+      <image:title>Cotización Certificada SEPO</image:title>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="es-CL" href="https://www.sepo.cl/cotizacion-certificada-construccion" />
+    <xhtml:link rel="alternate" hreflang="es-CO" href="https://www.sepo.cl/cotizacion-certificada-construccion" />
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.sepo.cl/cotizacion-certificada-construccion" />
+    <xhtml:link rel="alternate" hreflang="es-PE" href="https://www.sepo.cl/cotizacion-certificada-construccion" />
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.sepo.cl/cotizacion-certificada-construccion" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sepo.cl/cotizacion-certificada-construccion" />
+  </url>
+
+  <url>
+    <loc>https://www.sepo.cl/auditoria-forense-licitaciones</loc>
+    <lastmod>2026-04-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.sepo.cl/webp/hero-auditoria.webp</image:loc>
+      <image:title>Auditoría Forense de Licitaciones</image:title>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="es-CL" href="https://www.sepo.cl/auditoria-forense-licitaciones" />
+    <xhtml:link rel="alternate" hreflang="es-CO" href="https://www.sepo.cl/auditoria-forense-licitaciones" />
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.sepo.cl/auditoria-forense-licitaciones" />
+    <xhtml:link rel="alternate" hreflang="es-PE" href="https://www.sepo.cl/auditoria-forense-licitaciones" />
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.sepo.cl/auditoria-forense-licitaciones" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sepo.cl/auditoria-forense-licitaciones" />
+  </url>
+
+  <url>
+    <loc>https://www.sepo.cl/licitaciones-construccion</loc>
+    <lastmod>2026-04-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.sepo.cl/webp/hero-auditoria.webp</image:loc>
+      <image:title>Análisis de Licitaciones de Construcción</image:title>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="es-CL" href="https://www.sepo.cl/licitaciones-construccion" />
+    <xhtml:link rel="alternate" hreflang="es-CO" href="https://www.sepo.cl/licitaciones-construccion" />
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.sepo.cl/licitaciones-construccion" />
+    <xhtml:link rel="alternate" hreflang="es-PE" href="https://www.sepo.cl/licitaciones-construccion" />
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.sepo.cl/licitaciones-construccion" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sepo.cl/licitaciones-construccion" />
+  </url>
+
+
+  <url>
+    <loc>https://www.sepo.cl/proteccion-flujo-caja-construccion</loc>
+    <lastmod>2026-04-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.sepo.cl/webp/logo-sepo.webp</image:loc>
+      <image:title>Protección de Flujo de Caja en Construcción</image:title>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="es-CL" href="https://www.sepo.cl/proteccion-flujo-caja-construccion" />
+    <xhtml:link rel="alternate" hreflang="es-CO" href="https://www.sepo.cl/proteccion-flujo-caja-construccion" />
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.sepo.cl/proteccion-flujo-caja-construccion" />
+    <xhtml:link rel="alternate" hreflang="es-PE" href="https://www.sepo.cl/proteccion-flujo-caja-construccion" />
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.sepo.cl/proteccion-flujo-caja-construccion" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sepo.cl/proteccion-flujo-caja-construccion" />
+  </url>
+
+  <url>
+    <loc>https://www.sepo.cl/planilla-presupuesto-obra</loc>
+    <lastmod>2026-04-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.sepo.cl/webp/logo-sepo.webp</image:loc>
+      <image:title>Planilla de Presupuesto de Obra con Inteligencia de Datos</image:title>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="es-CL" href="https://www.sepo.cl/planilla-presupuesto-obra" />
+    <xhtml:link rel="alternate" hreflang="es-CO" href="https://www.sepo.cl/planilla-presupuesto-obra" />
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.sepo.cl/planilla-presupuesto-obra" />
+    <xhtml:link rel="alternate" hreflang="es-PE" href="https://www.sepo.cl/planilla-presupuesto-obra" />
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.sepo.cl/planilla-presupuesto-obra" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sepo.cl/planilla-presupuesto-obra" />
+  </url>
+
+  <url>
+    <loc>https://www.sepo.cl/ganar-licitaciones-inteligencia</loc>
+    <lastmod>2026-04-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.sepo.cl/webp/logo-sepo.webp</image:loc>
+      <image:title>Estrategias para ganar licitaciones con Inteligencia Artificial</image:title>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="es-CL" href="https://www.sepo.cl/ganar-licitaciones-inteligencia" />
+    <xhtml:link rel="alternate" hreflang="es-CO" href="https://www.sepo.cl/ganar-licitaciones-inteligencia" />
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.sepo.cl/ganar-licitaciones-inteligencia" />
+    <xhtml:link rel="alternate" hreflang="es-PE" href="https://www.sepo.cl/ganar-licitaciones-inteligencia" />
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.sepo.cl/ganar-licitaciones-inteligencia" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sepo.cl/ganar-licitaciones-inteligencia" />
+  </url>
+
+  <!-- ============================== -->
+  <!-- LEGAL & STATIC PAGES           -->
+  <!-- ============================== -->
+  <url>
+    <loc>https://www.sepo.cl/legal</loc>
+    <lastmod>2026-04-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="es-CL" href="https://www.sepo.cl/legal" />
+    <xhtml:link rel="alternate" hreflang="es-CO" href="https://www.sepo.cl/legal" />
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.sepo.cl/legal" />
+    <xhtml:link rel="alternate" hreflang="es-PE" href="https://www.sepo.cl/legal" />
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.sepo.cl/legal" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sepo.cl/legal" />
+  </url>
+  <url>
+    <loc>https://www.sepo.cl/pagos</loc>
+    <lastmod>2026-04-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="es-CL" href="https://www.sepo.cl/pagos" />
+    <xhtml:link rel="alternate" hreflang="es-CO" href="https://www.sepo.cl/pagos" />
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.sepo.cl/pagos" />
+    <xhtml:link rel="alternate" hreflang="es-PE" href="https://www.sepo.cl/pagos" />
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.sepo.cl/pagos" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sepo.cl/pagos" />
+  </url>
+  <url>
+    <loc>https://www.sepo.cl/privacidad</loc>
+    <lastmod>2026-04-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="es-CL" href="https://www.sepo.cl/privacidad" />
+    <xhtml:link rel="alternate" hreflang="es-CO" href="https://www.sepo.cl/privacidad" />
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.sepo.cl/privacidad" />
+    <xhtml:link rel="alternate" hreflang="es-PE" href="https://www.sepo.cl/privacidad" />
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.sepo.cl/privacidad" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sepo.cl/privacidad" />
+  </url>
+  <url>
+    <loc>https://www.sepo.cl/terminos</loc>
+    <lastmod>2026-04-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="es-CL" href="https://www.sepo.cl/terminos" />
+    <xhtml:link rel="alternate" hreflang="es-CO" href="https://www.sepo.cl/terminos" />
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.sepo.cl/terminos" />
+    <xhtml:link rel="alternate" hreflang="es-PE" href="https://www.sepo.cl/terminos" />
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.sepo.cl/terminos" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sepo.cl/terminos" />
+  </url>
+
+
+  <!-- ============================== -->
+  <!-- RECURSOS TÉCNICOS / BLOG       -->
+  <!-- ============================== -->
+
+  <url>
+    <loc>https://www.sepo.cl/que-es-software-licitaciones</loc>
+    <lastmod>2026-04-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.sepo.cl/webp/logo-sepo.webp</image:loc>
+      <image:title>Qué es un software de licitaciones y cómo funciona</image:title>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="es-CL" href="https://www.sepo.cl/que-es-software-licitaciones" />
+    <xhtml:link rel="alternate" hreflang="es-CO" href="https://www.sepo.cl/que-es-software-licitaciones" />
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.sepo.cl/que-es-software-licitaciones" />
+    <xhtml:link rel="alternate" hreflang="es-PE" href="https://www.sepo.cl/que-es-software-licitaciones" />
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.sepo.cl/que-es-software-licitaciones" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sepo.cl/que-es-software-licitaciones" />
+  </url>
+
+  <url>
+    <loc>https://www.sepo.cl/analisis-apu-construccion</loc>
+    <lastmod>2026-04-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.sepo.cl/webp/logo-sepo.webp</image:loc>
+      <image:title>Análisis de Precios Unitarios (APU) en Construcción</image:title>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="es-CL" href="https://www.sepo.cl/analisis-apu-construccion" />
+    <xhtml:link rel="alternate" hreflang="es-CO" href="https://www.sepo.cl/analisis-apu-construccion" />
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.sepo.cl/analisis-apu-construccion" />
+    <xhtml:link rel="alternate" hreflang="es-PE" href="https://www.sepo.cl/analisis-apu-construccion" />
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.sepo.cl/analisis-apu-construccion" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sepo.cl/analisis-apu-construccion" />
+  </url>
+
+  <url>
+    <loc>https://www.sepo.cl/como-saber-si-licitacion-es-rentable</loc>
+    <lastmod>2026-04-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.sepo.cl/webp/logo-sepo.webp</image:loc>
+      <image:title>Cómo saber si una licitación es rentable antes de ofertar</image:title>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="es-CL" href="https://www.sepo.cl/como-saber-si-licitacion-es-rentable" />
+    <xhtml:link rel="alternate" hreflang="es-CO" href="https://www.sepo.cl/como-saber-si-licitacion-es-rentable" />
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.sepo.cl/como-saber-si-licitacion-es-rentable" />
+    <xhtml:link rel="alternate" hreflang="es-PE" href="https://www.sepo.cl/como-saber-si-licitacion-es-rentable" />
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.sepo.cl/como-saber-si-licitacion-es-rentable" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sepo.cl/como-saber-si-licitacion-es-rentable" />
+  </url>
+
+  <url>
+    <loc>https://www.sepo.cl/flujo-de-caja-construccion</loc>
+    <lastmod>2026-04-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.sepo.cl/webp/logo-sepo.webp</image:loc>
+      <image:title>Qué es el flujo de caja en construcción y por qué es clave</image:title>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="es-CL" href="https://www.sepo.cl/flujo-de-caja-construccion" />
+    <xhtml:link rel="alternate" hreflang="es-CO" href="https://www.sepo.cl/flujo-de-caja-construccion" />
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.sepo.cl/flujo-de-caja-construccion" />
+    <xhtml:link rel="alternate" hreflang="es-PE" href="https://www.sepo.cl/flujo-de-caja-construccion" />
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.sepo.cl/flujo-de-caja-construccion" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sepo.cl/flujo-de-caja-construccion" />
+  </url>
+
+  <url>
+    <loc>https://www.sepo.cl/guia-software-estudios-de-obras</loc>
+    <lastmod>2026-04-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.sepo.cl/webp/logo-sepo.webp</image:loc>
+      <image:title>Qué es un software de estudios de obras y cómo elegirlo</image:title>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="es-CL" href="https://www.sepo.cl/guia-software-estudios-de-obras" />
+    <xhtml:link rel="alternate" hreflang="es-CO" href="https://www.sepo.cl/guia-software-estudios-de-obras" />
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.sepo.cl/guia-software-estudios-de-obras" />
+    <xhtml:link rel="alternate" hreflang="es-PE" href="https://www.sepo.cl/guia-software-estudios-de-obras" />
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.sepo.cl/guia-software-estudios-de-obras" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sepo.cl/guia-software-estudios-de-obras" />
+  </url>
+
+  <url>
+    <loc>https://www.sepo.cl/sepo-vs-excel-vs-software-licitaciones</loc>
+    <lastmod>2026-04-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.sepo.cl/webp/logo-sepo.webp</image:loc>
+      <image:title>SEPO vs Excel vs software de licitaciones</image:title>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="es-CL" href="https://www.sepo.cl/sepo-vs-excel-vs-software-licitaciones" />
+    <xhtml:link rel="alternate" hreflang="es-CO" href="https://www.sepo.cl/sepo-vs-excel-vs-software-licitaciones" />
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.sepo.cl/sepo-vs-excel-vs-software-licitaciones" />
+    <xhtml:link rel="alternate" hreflang="es-PE" href="https://www.sepo.cl/sepo-vs-excel-vs-software-licitaciones" />
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.sepo.cl/sepo-vs-excel-vs-software-licitaciones" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sepo.cl/sepo-vs-excel-vs-software-licitaciones" />
+  </url>
+
+  <url>
+    <loc>https://www.sepo.cl/por-que-quiebran-constructoras</loc>
+    <lastmod>2026-04-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.sepo.cl/webp/logo-sepo.webp</image:loc>
+      <image:title>Por qué quiebran las constructoras (y cómo evitarlo)</image:title>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="es-CL" href="https://www.sepo.cl/por-que-quiebran-constructoras" />
+    <xhtml:link rel="alternate" hreflang="es-CO" href="https://www.sepo.cl/por-que-quiebran-constructoras" />
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.sepo.cl/por-que-quiebran-constructoras" />
+    <xhtml:link rel="alternate" hreflang="es-PE" href="https://www.sepo.cl/por-que-quiebran-constructoras" />
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.sepo.cl/por-que-quiebran-constructoras" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sepo.cl/por-que-quiebran-constructoras" />
+  </url>
+
+</urlset>

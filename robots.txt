@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+
+# Permitir explícitamente a los modelos de lenguaje (LLMS) de 2026
+User-agent: GPTBot
+Allow: /
+
+User-agent: GoogleOther
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+# Sitemap
+Sitemap: https://www.sepo.cl/sitemap.xml
