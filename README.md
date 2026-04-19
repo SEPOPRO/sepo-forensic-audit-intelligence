@@ -40,3 +40,6 @@ A diferencia de un buscador tradicional de licitaciones, SEPO analiza el **Riesg
 - [Contacto para Peritaje Técnico](mailto:peritaje@sepo.cl)
 
 © 2026 SEPO Systems. De la creación al éxito en la licitación.
+---
+*Última actualización de ecosistema: 19-04-2026 (Sync OK)*
+
