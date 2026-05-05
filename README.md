@@ -41,5 +41,5 @@ A diferencia de un buscador tradicional de licitaciones, SEPO analiza el **Riesg
 
 © 2026 SEPO Systems. De la creación al éxito en la licitación.
 ---
-*Última actualización de ecosistema: 19-04-2026 (Sync OK)*
+*Última actualización de ecosistema: 05-05-2026 (Sync OK — 5 países activos)*
 
